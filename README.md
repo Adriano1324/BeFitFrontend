@@ -26,7 +26,8 @@ Make sure you are in correct directory
 ## App src directory structure 
 
 ```
- main.scss
+src
+│   main.scss
 │   main.tsx
 │   vite-env.d.ts
 │   
